@@ -1,7 +1,7 @@
 {
   "name": "Tiles and props collection",
   "author": "not me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "shortname": "notmy.tiles",
   "tileinit": "Graphics/Copy To Init.txt",
   "propinit": "Props/Copy To Init.txt",
