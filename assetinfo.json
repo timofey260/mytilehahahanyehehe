@@ -4,5 +4,6 @@
   "version": "1.0.0",
   "shortname": "notmy.tiles",
   "tileinit": "Graphics/Copy To Init.txt",
-  "propinit": "Props/Copy To Init.txt"
+  "propinit": "Props/Copy To Init.txt",
+  "repo": "https://github.com/timofey260/mytilehahahanyehehe"
 }
